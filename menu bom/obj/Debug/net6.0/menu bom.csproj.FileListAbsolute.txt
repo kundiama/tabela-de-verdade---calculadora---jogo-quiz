@@ -1,0 +1,28 @@
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\bin\Debug\net6.0\menu bom.exe
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\bin\Debug\net6.0\menu bom.deps.json
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\bin\Debug\net6.0\menu bom.runtimeconfig.json
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\bin\Debug\net6.0\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\bin\Debug\net6.0\menu bom.pdb
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.AssemblyInfoInputs.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.AssemblyInfo.cs
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\refint\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.pdb
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\menu bom.genruntimeconfig.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\menu bom\menu bom\obj\Debug\net6.0\ref\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\bin\Debug\net6.0\menu bom.exe
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\bin\Debug\net6.0\menu bom.deps.json
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\bin\Debug\net6.0\menu bom.runtimeconfig.json
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\bin\Debug\net6.0\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\bin\Debug\net6.0\menu bom.pdb
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.AssemblyInfoInputs.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.AssemblyInfo.cs
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\refint\menu bom.dll
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.pdb
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\menu bom.genruntimeconfig.cache
+C:\Users\Manuel Andre\Documents\c# atualizado\INF11AT   Sala4\Alberto Lucas n4\menu bom\obj\Debug\net6.0\ref\menu bom.dll
